@@ -20,11 +20,11 @@ table
  </tr>
  <tr>
     <td>
-    <p>A recent grdaute from CSUEB with M.S. in Statistics, Data Science concentration</p>
+    <p>First Year Northeastern University, Master's in Computer Science</p>
 
       
-- 🔭 I’m currently working on [Andriod Mobile App Projects](https://github.com/Zhaoshan-Duan)
-- 🌱 I’m currently learning **Kotlin**, **Mobile Development** 
+- 🔭 I’m currently working on [Andriod Apps](https://github.com/Zhaoshan-Duan)
+- 🌱 I’m currently learning **Kotlin**, **Mobile Development**, **Java**, **Spring**
 - 📫 How to reach me: **joshua.duan47@gmail.com**
 - 😄 Pronouns: He/Him/His
 
