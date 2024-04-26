@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhaoshan-duan&label=Profile%20views&color=0e75b6&style=flat" alt="zhaoshan-duan" /> </p>
 
-- 🔭 I’m currently working on [Android Development with Jetpack Compose](https://github.com/Zhaoshan-Duan)
+- 🔭 I’m currently working on [Building a Interpreter with Go](https://github.com/Zhaoshan-Duan/intpreter), [Android Development with Jetpack Compose](https://github.com/Zhaoshan-Duan)
 
-- 🌱 I’m currently learning **Jetpack Compose, Java Spring**
+- 🌱 I’m currently learning **Go**, **Jetpack Compose, Java Spring**
 
 - 👯 I’m looking to collaborate on **Mobile App Development**
 
