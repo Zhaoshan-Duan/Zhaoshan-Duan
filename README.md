@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhaoshan "Joshua" Duan</h1>
-<h3 align="center">First-Year MSCS @ Northeastern University | Mobile Application Development</h3>
+<h3 align="center">MSCS @ Northeastern University | Mobile Application Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhaoshan-duan&label=Profile%20views&color=0e75b6&style=flat" alt="zhaoshan-duan" /> </p>
 
