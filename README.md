@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zhaoshan "Joshua" Duan</h1>
-<h3 align="center">MSCS @ Northeastern University | Mobile Application Development</h3>
+<h3 align="center">MSCS @ Northeastern University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhaoshan-duan&label=Profile%20views&color=0e75b6&style=flat" alt="zhaoshan-duan" /> </p>
 
-- 🔭 I’m currently working on [Building a Interpreter with Go](https://github.com/Zhaoshan-Duan/intpreter), [Android Development with Jetpack Compose](https://github.com/Zhaoshan-Duan)
+- 🔭 I’m currently working on [Building a neural network from scratch with Go](https://github.com/Zhaoshan-Duan/nn-go)
 
-- 🌱 I’m currently learning **Go**, **Jetpack Compose, Java Spring**
-
-- 👯 I’m looking to collaborate on **Mobile App Development**
+- 🌱 I’m currently learning **Go**, **C**, **Neural Network**, **HTTP Server**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zhaoshan-Duan](https://github.com/Zhaoshan-Duan)
 
